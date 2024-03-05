@@ -1,0 +1,80 @@
+{
+    "slides":[
+        {
+            "title": "Slide 1",
+            "level": 0,
+            "swipeDirection": "left",
+            "slides": [
+                {
+                    "title": "Slide 1.1",
+                    "level": 1,
+                    "swipeDirection": "down",
+                    "slides": [
+                        {
+                            "title": "Slide 1.1.1",
+                            "level": 2,
+                            "swipeDirection": "left"
+
+                        },
+                        {
+                            "title": "Slide 1.1.2",
+                            "level": 2,
+                            "swipeDirection": "left"
+                            
+                        }
+                    ]
+                },
+                {
+                    "title": "Slide 1.2",
+                    "level": 1,
+                    "swipeDirection": "down",
+                    "slides": [
+                        {
+                            "title": "Slide 1.2.1",
+                            "level": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Slide 2",
+            "level": 0,
+            "swipeDirection": "left",
+            "slides": [
+                {
+                    "title": "Slide 2.1",
+                    "level": 1,
+                    "swipeDirection": "down"
+                },
+                {
+                    "title": "Slide 2.2",
+                    "level": 1,
+                    "swipeDirection": "down"
+                }
+            ]
+        },
+        {
+            "title": "Slide 3",
+            "level": 0,
+            "swipeDirection": "left",
+            "slides": [
+                {
+                    "title": "Slide 3.1",
+                    "level": 1,
+                    "swipeDirection": "down"
+                },
+                {
+                    "title": "Slide 3.2",
+                    "level": 1,
+                    "swipeDirection": "down"
+                },
+                {
+                    "title": "Slide 3.3",
+                    "level": 1,
+                    "swipeDirection": "down"
+                }
+            ]
+        }
+    ]
+}
